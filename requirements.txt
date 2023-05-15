@@ -4,3 +4,7 @@ seaborn
 tensorflow
 keras
 matplotlib
+scikit-learn
+catboost
+xgboost
+#-e .
